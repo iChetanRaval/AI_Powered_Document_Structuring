@@ -1,0 +1,49 @@
+--- General Operating System Files ---
+
+.DS_Store
+.vscode/
+
+--- Python Environment / Dependency Files ---
+
+Virtual Environment Directory
+
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+Distribution and Packaging
+
+dist/
+build/
+*.egg-info/
+
+--- Project-Specific Files ---
+
+API Key File (CRITICAL)
+
+.env
+
+Streamlit Local Cache
+
+.streamlit/
+streamlit_data/
+
+Jupyter Notebooks (if any)
+
+.ipynb_checkpoints
+
+--- Data and Output Files (Based on your App) ---
+
+Excel Output
+
+Output.xlsx
+
+Locally created PDF input (if you use a placeholder file)
+
+Data Input.pdf
+
+--- Log Files ---
+
+*.log
