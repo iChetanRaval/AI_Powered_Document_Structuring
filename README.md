@@ -2,6 +2,10 @@
 
 **Assignment Completion for AI Intern Role**
 
+## 🚀 Live Application
+
+**Live URL:** https://dataextraction.streamlit.app/
+
 ## 🎯 Overview
 
 This project transforms unstructured PDF documents into structured Excel outputs using AI-powered extraction techniques. It combines rule-based pattern matching with Claude AI's natural language understanding to achieve 100% data capture with contextual awareness.
