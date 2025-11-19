@@ -18,3 +18,4 @@ google-genai
 flask==3.0.0
 werkzeug==3.0.1
 gunicorn==21.2.0
+xlsxwriter
